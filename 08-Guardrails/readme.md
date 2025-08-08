@@ -71,7 +71,7 @@ Each guardrail is a **pure function** that receives the current context and retu
 **Pseudocode Example:**
 
 ```python
-from openai import GuardrailFunctionOutput
+from agents import GuardrailFunctionOutput
 
 def check_for_profanity(context):
     if "badword" in context.input_text.lower():
@@ -157,6 +157,5 @@ Guardrails are like:
 
 ## 11. Further Reading
 
-* **RFC-like Documentation:** [OpenAI Guardrails Docs](https://openai.github.io/openai-agents-python/guardrails/)
-inside fast, modern AI communication pipelines.
+* **Documentation:** [OpenAI Guardrails Docs](https://openai.github.io/openai-agents-python/guardrails/)
 
