@@ -1,4 +1,4 @@
-# 🧑‍💻 Understanding RunContext, RunContextWrapper & Usage in `openai-agents`
+# 💻 Understanding RunContext, RunContextWrapper & Usage in `openai-agents`
 
 This project demonstrates how **RunContext**, **RunContextWrapper**, and **Usage tracking** work inside the [`openai-agents`](https://pypi.org/project/openai-agents) SDK.
 It is designed as a **theory-first walkthrough** with working examples, focusing on **why** these components exist and **how they’re used** when building context-aware tools for agents.
