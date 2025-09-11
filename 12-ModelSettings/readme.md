@@ -43,7 +43,7 @@ ModelSettings can be applied at **two levels**:
           include_usage=True
       )
   )
-````
+  ````
 
 ### 2. Runner-Level
 
