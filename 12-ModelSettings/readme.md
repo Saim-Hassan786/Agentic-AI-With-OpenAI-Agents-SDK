@@ -105,5 +105,3 @@ This design ensures flexibility:
 * [OpenAI Agents SDK Documentation](https://github.com/openai/openai-agents)
 * [OpenAI API Reference](https://platform.openai.com/docs/)
 
-```
-
