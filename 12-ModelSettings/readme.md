@@ -5,7 +5,7 @@ This folder explains **ModelSettings** in the [OpenAI Agents SDK](https://github
 ## 🔑 What are ModelSettings?
 
 **ModelSettings** are configuration parameters that control and fine-tune the behavior of the underlying LLM (Language Model).  
-They act as instructions for how the model should generate responses.  
+They act as instructions for how the model should generate responses.
 
 Examples of configurable parameters include:
 
